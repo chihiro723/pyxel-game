@@ -1,8 +1,5 @@
 __pycache__/
 *.pyc
-*.pyxapp
-*.html
-!index.html
 .DS_Store
 *.log
 
